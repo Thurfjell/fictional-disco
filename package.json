@@ -1,0 +1,20 @@
+{
+  "name": "fictional-disco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Who tests anyway\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thurfjell/fictional-disco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thurfjell/fictional-disco/issues"
+  },
+  "homepage": "https://github.com/Thurfjell/fictional-disco#readme"
+}
